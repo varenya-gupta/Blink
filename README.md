@@ -24,7 +24,9 @@ Duplicate the rest of the files into the virtual enviornment and run and test th
   #cap.set(4, 720)
   ```
 * Before attempting to use `basic_openai_api_usage.py` api key that has been provided in the synopsis must be used.
-  --> image will come
+  
+  ![apikeyhidden](https://github.com/varenya-gupta/Blink/assets/153254554/4a9bd1d1-f0b4-4ff3-a426-d1c4edf71f8d)
+
   ```
   openai.api_key = "place key here"
   ```
