@@ -20,3 +20,5 @@ openai == 0.28.0
 pyttsx3 == 2.90
 PyAudio == 0.2.14
 SpeechRecognition == 3.10.1
+geocoder == 1.38.1
+geopy == 2.4.1
