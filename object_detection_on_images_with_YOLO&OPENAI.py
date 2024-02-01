@@ -1,7 +1,7 @@
 #import necessary libraries 
 from ultralytics import YOLO
 import cv2
-#import openai from file
+#import openai program from file
 import basic_openai_api_usage.py
 
 #create Yolo model
