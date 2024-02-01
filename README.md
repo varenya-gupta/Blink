@@ -5,3 +5,6 @@ Blink is a a device that helps blind people in navigation by using a object dete
 Create a `virtual enviornment` to install all the required libraries. These libraries will be required to run the programs. I would recommend using an IDE such as Pycharm as they have direct ways to create a new virtual enviornment when creating a new project or when creating a new interpreter.
 
 ![image](https://github.com/varenya-gupta/Blink/assets/153254554/a0046503-c117-4067-82c4-436b6f7f6a39)
+
+## Step2:
+Install all libraries in the `requirements.txt` file either by duplicating it and opening it in a IDE like Pycharm or by manually downloading them through pip.
