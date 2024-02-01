@@ -1,3 +1,4 @@
+#algorithm used for tracking objects
 """
     SORT: A Simple, Online and Realtime Tracker
     Copyright (C) 2016-2020 Alex Bewley alex@bewley.ai
