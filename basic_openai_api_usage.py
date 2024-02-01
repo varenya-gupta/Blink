@@ -1,4 +1,4 @@
-#import openai
+#import libraries
 import openai
 #import voicemoudle.py from project
 import voicemodule
