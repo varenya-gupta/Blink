@@ -34,3 +34,5 @@ Duplicate the rest of the files into the virtual enviornment and run and test th
   ```
   
 * Using `coordinates_finder.py` will prompt for a location and then will provide the latitude and longitude of that place as well as your current location's latitude and longitude. However due to certain reasons we haven't been able to use the `directions api` by google.
+
+* Some Images have been provide in the `refrences` folder and can be used for testing.
