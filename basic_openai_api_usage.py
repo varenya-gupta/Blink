@@ -1,6 +1,6 @@
 #import libraries
 import openai
-#import voicemoudle.py from project
+#import voicemoudle from project
 import voicemodule
 
 #provide openai api key (is provided in the synopsis)
