@@ -36,7 +36,7 @@ IdentifiedClassNames = {"person":0, "bicycle":0, "car":0, "motorbike":0, "aeropl
 GptNames = {}
 
 #generate results by running the image through the model
-results = model("image1.jpeg", show=True)
+results = model("place image path here", show=True)
 cv2.waitKey(0)
 #basic code to add 1 to each class in IdentifiedClassNames for each detection
 for r in results:
