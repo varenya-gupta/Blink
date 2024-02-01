@@ -8,3 +8,5 @@ Create a `virtual enviornment` to install all the required libraries. These libr
 
 ## Step2:
 Install all libraries in the `requirements.txt` file either by duplicating it and opening it in a IDE like Pycharm or by manually downloading them through pip.
+
+![image](https://github.com/varenya-gupta/Blink/assets/153254554/f65d2b10-7321-4691-8818-d49b622f6b1e)
