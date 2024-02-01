@@ -5,7 +5,7 @@ import cvzone
 import math
 from sort import *
 
-#define camera capture through webcam using cv2
+#define camera capture through webcam using cv2 and set dimensions
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
