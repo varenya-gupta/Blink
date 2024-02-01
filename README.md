@@ -14,3 +14,23 @@ Install all libraries in the `requirements.txt` file either by duplicating it an
 
 ## Step3:
 Duplicate the rest of the files into the virtual enviornment and run and test the various programs.
+
+# Important points and helpful tips for running the programs:
+* For running `object_detection_with_YOLO&SORT.py` a webcam is required as the cv2 function has been setup for using a camera. For testing using a video use the path of the video instead of the webcam and     
+  commenting out the width and height settings like so:
+  ```
+  cap = cv2.VideoCapture('path to video file')
+  #cap.set(3, 1280)
+  #cap.set(4, 720)
+  ```
+* Before attempting to use `basic_openai_api_usage.py` api key that has been provided in the synopsis must be used.
+  --> image will come
+  ```
+  openai.api_key = "place key here"
+  ```
+* `object_detection_on_images_with_YOLO&OPENAI.py` requires path to a image in the results line.
+  ```
+  results = model("place image path here", show=True)
+  ```
+  
+* Using `coordinates_finder.py` will prompt for a location and then will provide the latitude and longitude of that place as well as your current location's latitude and longitude. However due to certain reasons we haven't been able to use the `directions api` by google.
