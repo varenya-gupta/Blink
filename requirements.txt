@@ -1,4 +1,4 @@
-#Please Install These Libraries to run all of the programs
+#Install the following libraries into the virtual enviorment.
 
 cvzone==1.5.6
 ultralytics==8.0.26
